@@ -4,4 +4,5 @@ Some files like the nagisa song, image downloads and gifs are the ones I used in
 I also used a video which I am not uploading here.
 index.html is the main file and contains links to all other websites which I have created today.
 mail me to the email provided on the index website if there is any prolem.
+I will be uploading CSS and JAVASCRIPT in this same repository in future.
 Thank You!
